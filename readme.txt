@@ -16,6 +16,4 @@ Git
 \f1\b \cf4 is
 \f0\b0 \cf2  free software distributed under the GPL.\
 Git has a mutable index called stage.\
-Creating a 
-\f1\b \cf4 new
-\f0\b0 \cf2  branch is quick and simple.}
+Creating a ranch is quick and simple.}
